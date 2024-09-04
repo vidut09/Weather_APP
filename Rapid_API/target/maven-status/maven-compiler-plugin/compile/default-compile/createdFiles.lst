@@ -1,0 +1,4 @@
+com\weatherforecast\service\RapidApiService.class
+com\weatherforecast\service\RapidApiServiceImpl.class
+com\weatherforecast\DemoApplication.class
+com\weatherforecast\controller\ApiController.class
